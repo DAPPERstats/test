@@ -5,6 +5,3 @@ navbar:
   title: "test"
   structure:
     left: [home, reference]
-  components: 
-    reference: 
-      text: "Functions"
