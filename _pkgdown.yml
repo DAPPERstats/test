@@ -4,7 +4,6 @@ development:
 navbar:
   structure:
     left: [home, reference]
-    right: [twitter, github] 
   components: 
     reference: 
       text: "Functions"
