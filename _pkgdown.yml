@@ -3,8 +3,8 @@ development:
   mode: auto
 navbar:
   structure:
-    left: [reference, home]
+    left: [home, reference]
   components:
     reference:
-      text: "Reference"
+      text: "Refs"
       href: reference/index.html
