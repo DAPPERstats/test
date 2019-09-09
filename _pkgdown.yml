@@ -4,3 +4,7 @@ development:
 navbar:
   structure:
     left: [reference, home]
+  components:
+    reference:
+      text: "Reference"
+      href: reference/index.html
