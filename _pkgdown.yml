@@ -7,3 +7,4 @@ navbar:
   components:
     reference:
       text: "Refs"
+      href: reference/index.html
