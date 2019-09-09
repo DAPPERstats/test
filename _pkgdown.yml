@@ -1,3 +1,6 @@
 url: https://dapperstats.github.io/test
 development:
   mode: auto
+navbar:
+  structure:
+    left: [reference, home]
