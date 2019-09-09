@@ -11,3 +11,11 @@
 xx <- function(x){
 x
 }
+
+#' @rdname xx
+#'
+#' @export
+#'
+yy <- function(x){
+x
+}
