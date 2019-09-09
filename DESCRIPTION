@@ -1,4 +1,4 @@
-Package: tests
+Package: test
 Title: test test
 Version: 0.1.0
 Authors@R: c(
